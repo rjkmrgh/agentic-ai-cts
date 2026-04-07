@@ -140,7 +140,6 @@ else:
 
 # %%
 # to create the embeddings, we will use OpenAI embeddings (size 1536)
-# apikey = "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"
 client = OpenAI()
 
 # %%
